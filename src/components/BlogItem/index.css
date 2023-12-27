@@ -1,0 +1,10 @@
+.each-blog {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-head-date {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

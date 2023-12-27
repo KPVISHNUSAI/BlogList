@@ -1,0 +1,35 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+}
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto';
+}
+
+.profile-pic {
+  width: 100px;
+}
+
+.profile-name {
+  color: #12022f;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.profession {
+  color: #616e7c;
+}
+
+.blog-lists-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  list-style-type: none;
+}
